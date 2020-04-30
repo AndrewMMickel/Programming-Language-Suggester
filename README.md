@@ -1,16 +1,16 @@
-# _{hello world!}_
+# _Program Language Selector_
 
-#### _{first webpage}, {2/6/2020}_
+#### _PLS, {4/30/2020}_
 
-#### By _**{Andrew Mickel}**_
+#### By _**Andrew Mickel**_
 
 ## Description
 
-_{This page is a creation of mine as I learn to code with HTML}_
+_{This page is a test of making a survey for choosing a coding language to learn._
 
 ## Setup/Installation Requirements
 
-* _There shouldn't be any installation requirements. Will update if this changes_
+* Must have bootstraps installed on your device along with jquery-3.4.1 installed in order for the page to work correctly
 
 ## Known Bugs
 
@@ -22,7 +22,7 @@ _email andrew.m.mickel@gmail.com if there are any concerns_
 
 ## Technologies Used
 
-_The most impressive part so far is that all of this work has been done on Windows. There'll be more later_
+_Built from scratch using javascript and Bootstraps_
 
 ### License
 
