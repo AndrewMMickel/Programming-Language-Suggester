@@ -16,6 +16,7 @@ $(document).ready(function() {
         else if (Q1 === 'No' && Q2 === 'web design' && Q3 === '2-3') {
             coding = "C#"
         }
+
         else if (Q1 === 'Yes' && Q2 === 'journalism' && Q3 === '0-1') {
             coding = "Ruby"
         }
@@ -24,6 +25,16 @@ $(document).ready(function() {
         }
         else if (Q1 === 'No' && Q2 === 'journalism' && Q3 === '2-3') {
             coding = "Python"
+        }
+
+        else if (Q1 === 'Yes' && Q2 === 'programming' && Q3 === '0-1') {
+            coding = "Java"
+        }
+        else if (Q1 === 'No' && Q2 === 'programming' && Q3 === '0-1') {
+            coding = "Java"
+        }
+        else if (Q1 === 'No' && Q2 === 'programming' && Q3 === '2-3') {
+            coding = "Javascript"
         }
 
         $("#coding").text(coding);

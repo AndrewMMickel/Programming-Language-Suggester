@@ -5,3 +5,7 @@
 #result {
     display: none;
 }
+
+.survey {
+    float: left;
+}
