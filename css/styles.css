@@ -9,3 +9,7 @@
 .survey {
     float: left;
 }
+
+p {
+    border: 1px solid black;
+}
