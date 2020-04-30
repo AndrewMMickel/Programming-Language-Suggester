@@ -8,10 +8,10 @@ $(document).ready(function() {
     var coding;
 
         if (Q1 === 'Yes' && Q2 === 'web design' && Q3 === '0-1') {
-            coding = "javascript";
+            coding = "java";
         }
         else if (Q1 === 'No' && Q2 === 'web design' && Q3 === '0-1') {
-            coding = "Javascript"
+            coding = "Java"
         }
         else if (Q1 === 'No' && Q2 === 'web design' && Q3 === '2-3') {
             coding = "C#"
